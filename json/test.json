@@ -1,0 +1,243 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "Project-Id-Version": "PACKAGE VERSION",
+    "Report-Msgid-Bugs-To": "",
+    "POT-Creation-Date": "2011-07-29 11:46+0200",
+    "PO-Revision-Date": "2012-03-23 09:50+0300",
+    "Last-Translator": "",
+    "Language-Team": "LANGUAGE <LL@li.org>",
+    "MIME-Version": "1.0",
+    "Content-Type": "text/plain; charset=UTF-8",
+    "Content-Transfer-Encoding": "8bit",
+    "Plural-Forms": "",
+    "POT-Creation-ate": "",
+    "X-Poedit-Basepath": "",
+    "X-Poedit-KeywordsList": "",
+    "X-Poedit-SearchPath-0": "",
+    "X-Poedit-SearchPath-1": ""
+  },
+  "translations": {
+    "": {
+      "": {
+        "msgid": "",
+        "msgstr": [
+          "Project-Id-Version:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               PACKAGE VERSION\nReport-Msgid-Bugs-To:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               \nPOT-Creation-Date:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               2011-07-29 11:46+0200\nPO-Revision-Date:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               2012-03-23 09:50+0300\nLast-Translator:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               \nLanguage-Team:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               LANGUAGE <LL@li.org>\nMIME-Version:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               1.0\nContent-Type:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               text/plain; charset=UTF-8\nContent-Transfer-Encoding:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               8bit\nPlural-Forms:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               \nPOT-Creation-ate:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               \nX-Poedit-Basepath:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              \nX-Poedit-KeywordsList:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               \nX-Poedit-SearchPath-0:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               \nX-Poedit-SearchPath-1:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               \n"
+        ]
+      },
+      "title.alert.myAlerts": {
+        "msgid": "title.alert.myAlerts",
+        "comments": {
+          "reference": "application/default/controllers/AlertController.php:38\n/home/altadata/application/default/controllers/AlertController.php:38"
+        },
+        "msgstr": [
+          "我的邮件提醒"
+        ]
+      },
+      "title.alert.createAlert": {
+        "msgid": "title.alert.createAlert",
+        "comments": {
+          "reference": "application/default/controllers/AlertController.php:44\n/home/altadata/application/default/controllers/AlertController.php:44"
+        },
+        "msgstr": [
+          "创建提醒"
+        ]
+      },
+      "alert.error.invalidIndustry": {
+        "msgid": "alert.error.invalidIndustry",
+        "comments": {
+          "reference": "application/default/controllers/AlertController.php:68\napplication/default/controllers/AlertController.php:83\napplication/default/controllers/AlertController.php:150\napplication/default/controllers/AlertController.php:165\n/home/altadata/application/default/controllers/AlertController.php:75\n/home/altadata/application/default/controllers/AlertController.php:90\n/home/altadata/application/default/controllers/AlertController.php:167\n/home/altadata/application/default/controllers/AlertController.php:182"
+        },
+        "msgstr": [
+          "行业 ?"
+        ]
+      },
+      "alert.error.alertIsEmpty": {
+        "msgid": "alert.error.alertIsEmpty",
+        "comments": {
+          "reference": "application/default/controllers/AlertController.php:89\napplication/default/controllers/AlertController.php:171\n/home/altadata/application/default/controllers/AlertController.php:96\n/home/altadata/application/default/controllers/AlertController.php:188"
+        },
+        "msgstr": [
+          "邮件提醒 ?"
+        ]
+      },
+      "title.alert.editAlert": {
+        "msgid": "title.alert.editAlert",
+        "comments": {
+          "reference": "application/default/controllers/AlertController.php:113\n/home/altadata/application/default/controllers/AlertController.php:122"
+        },
+        "msgstr": [
+          "发布提醒"
+        ]
+      },
+      "text.industry.metaDescription.%s%s%s": {
+        "msgid": "text.industry.metaDescription.%s%s%s",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:170\n/home/altadata/application/default/controllers/CompanyController.php:298\n/home/altadata/application/default/controllers/CompanyController.php:304\n/home/altadata/application/default/controllers/CompanyController.php:308",
+          "flag": "php-format"
+        },
+        "msgstr": [
+          "%1$s.%2$s家企业(例如%3$s)的机构组织图，每个组织图包含几十个决策者。 "
+        ]
+      },
+      "title.search.industry.%s%s": {
+        "msgid": "title.search.industry.%s%s",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:176\n/home/altadata/application/default/controllers/CompanyController.php:304\n/home/altadata/application/default/controllers/CompanyController.php:310\n/home/altadata/application/default/controllers/CompanyController.php:314",
+          "flag": "php-format"
+        },
+        "msgstr": [
+          "%s : %s 家企业"
+        ]
+      },
+      "text.country.metaDescription.%s%s%s": {
+        "msgid": "text.country.metaDescription.%s%s%s",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:182\n/home/altadata/application/default/controllers/CompanyController.php:310\n/home/altadata/application/default/controllers/CompanyController.php:316\n/home/altadata/application/default/controllers/CompanyController.php:320",
+          "flag": "php-format"
+        },
+        "msgstr": [
+          "%1$s.%2$s家企业(例如%3$s)的机构组织图，每个组织图包含几十个决策者。 "
+        ]
+      },
+      "title.search.country.%s%s": {
+        "msgid": "title.search.country.%s%s",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:188\n/home/altadata/application/default/controllers/CompanyController.php:316\n/home/altadata/application/default/controllers/CompanyController.php:322\n/home/altadata/application/default/controllers/CompanyController.php:326",
+          "flag": "php-format"
+        },
+        "msgstr": [
+          "%s : %s家企业"
+        ]
+      },
+      "title.search.searchResults": {
+        "msgid": "title.search.searchResults",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:193\napplication/default/controllers/CompanyController.php:337\n/home/altadata/application/default/controllers/CompanyController.php:321\n/home/altadata/application/default/controllers/CompanyController.php:550\n/home/altadata/application/default/controllers/CompanyController.php:327\n/home/altadata/application/default/controllers/CompanyController.php:560\n/home/altadata/application/default/controllers/CompanyController.php:331\n/home/altadata/application/default/controllers/CompanyController.php:593"
+        },
+        "msgstr": [
+          "搜索结果"
+        ]
+      },
+      "text.search.metaDescription.including": {
+        "msgid": "text.search.metaDescription.including",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:251\napplication/default/controllers/CompanyController.php:254\napplication/default/controllers/CompanyController.php:952\napplication/default/controllers/CompanyController.php:955\n/home/altadata/application/default/controllers/CompanyController.php:380\n/home/altadata/application/default/controllers/CompanyController.php:383\n/home/altadata/application/default/controllers/CompanyController.php:1227\n/home/altadata/application/default/controllers/CompanyController.php:1230\n/home/altadata/application/default/controllers/CompanyController.php:1222\n/home/altadata/application/default/controllers/CompanyController.php:1225\n/home/altadata/application/default/controllers/CompanyController.php:1229\n/home/altadata/application/default/controllers/CompanyController.php:1232\n/home/altadata/application/default/controllers/CompanyController.php:1245\n/home/altadata/application/default/controllers/CompanyController.php:1248\n/home/altadata/application/default/controllers/CompanyController.php:390\n/home/altadata/application/default/controllers/CompanyController.php:393\n/home/altadata/application/default/controllers/CompanyController.php:1255\n/home/altadata/application/default/controllers/CompanyController.php:1258\n/home/altadata/application/default/controllers/CompanyController.php:394\n/home/altadata/application/default/controllers/CompanyController.php:397\n/home/altadata/application/default/controllers/CompanyController.php:1291\n/home/altadata/application/default/controllers/CompanyController.php:1294"
+        },
+        "msgstr": [
+          "像，例如"
+        ]
+      },
+      "generic.or": {
+        "msgid": "generic.or",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:256\napplication/default/controllers/CompanyController.php:957\n/home/altadata/application/default/controllers/CompanyController.php:385\n/home/altadata/application/default/controllers/CompanyController.php:1232\n/home/altadata/application/default/controllers/CompanyController.php:1227\n/home/altadata/application/default/controllers/CompanyController.php:1234\n/home/altadata/application/default/controllers/CompanyController.php:1250\n/home/altadata/application/default/controllers/CompanyController.php:395\n/home/altadata/application/default/controllers/CompanyController.php:1260\n/home/altadata/application/default/controllers/CompanyController.php:399\n/home/altadata/application/default/controllers/CompanyController.php:1296"
+        },
+        "msgstr": [
+          "或"
+        ]
+      },
+      "title.search.advancedSearch": {
+        "msgid": "title.search.advancedSearch",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:272\n/home/altadata/application/default/controllers/CompanyController.php:400\n/home/altadata/application/default/controllers/CompanyController.php:410\n/home/altadata/application/default/controllers/CompanyController.php:414"
+        },
+        "msgstr": [
+          "高级搜索"
+        ]
+      },
+      "layout.error.404": {
+        "msgid": "layout.error.404",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:388\napplication/default/controllers/CompanyController.php:401\napplication/default/controllers/CompanyController.php:410\napplication/default/controllers/CompanyController.php:975\napplication/default/controllers/ContactController.php:443\napplication/default/controllers/ContactController.php:503\napplication/default/controllers/ContactController.php:534\napplication/default/controllers/CountryController.php:51\napplication/default/controllers/CountryController.php:68\napplication/default/controllers/IndustryController.php:100\napplication/default/controllers/IndustryController.php:113\napplication/default/controllers/PdfController.php:58\napplication/default/controllers/PdfController.php:71\napplication/default/controllers/PdfController.php:80\napplication/default/controllers/PopularityController.php:69\n/home/altadata/application/default/controllers/StaticController.php:76\n/home/altadata/application/default/controllers/ContactController.php:475\n/home/altadata/application/default/controllers/ContactController.php:535\n/home/altadata/application/default/controllers/ContactController.php:566\n/home/altadata/application/default/controllers/CountryController.php:51\n/home/altadata/application/default/controllers/CountryController.php:68\n/home/altadata/application/default/controllers/CompanyController.php:601\n/home/altadata/application/default/controllers/CompanyController.php:614\n/home/altadata/application/default/controllers/CompanyController.php:623\n/home/altadata/application/default/controllers/CompanyController.php:1250\n/home/altadata/application/default/controllers/PopularityController.php:69\n/home/altadata/application/default/controllers/PdfController.php:58\n/home/altadata/application/default/controllers/PdfController.php:71\n/home/altadata/application/default/controllers/PdfController.php:80\n/home/altadata/application/default/controllers/IndustryController.php:100\n/home/altadata/application/default/controllers/IndustryController.php:114\n/home/altadata/application/default/controllers/ContactController.php:754\n/home/altadata/application/default/controllers/CompanyController.php:1245\n/home/altadata/application/default/controllers/PdfController.php:99\n/home/altadata/application/default/controllers/PdfController.php:112\n/home/altadata/application/default/controllers/PdfController.php:121\n/home/altadata/application/default/controllers/XmlController.php:30\n/home/altadata/application/default/controllers/XmlController.php:39\n/home/altadata/application/default/controllers/ContactController.php:788\n/home/altadata/application/default/controllers/CompanyController.php:1252\n/home/altadata/application/default/controllers/IndustryController.php:101\n/home/altadata/application/default/controllers/IndustryController.php:121\n/home/altadata/application/default/controllers/IndustryController.php:141\n/home/altadata/application/default/controllers/IndustryController.php:161\n/home/altadata/application/default/controllers/IndustryController.php:262\n/home/altadata/application/default/controllers/IndustryController.php:276\n/home/altadata/application/default/controllers/ContactController.php:798\n/home/altadata/application/default/controllers/IndustryController.php:271\n/home/altadata/application/default/controllers/IndustryController.php:285\n/home/altadata/application/default/controllers/ContactController.php:476\n/home/altadata/application/default/controllers/ContactController.php:536\n/home/altadata/application/default/controllers/ContactController.php:567\n/home/altadata/application/default/controllers/ContactController.php:755\n/home/altadata/application/default/controllers/ContactController.php:789\n/home/altadata/application/default/controllers/ContactController.php:799\n/home/altadata/application/default/controllers/CompanyController.php:1268\n/home/altadata/application/default/controllers/PdfController.php:59\n/home/altadata/application/default/controllers/PdfController.php:72\n/home/altadata/application/default/controllers/PdfController.php:81\n/home/altadata/application/default/controllers/IndustryController.php:102\n/home/altadata/application/default/controllers/IndustryController.php:122\n/home/altadata/application/default/controllers/IndustryController.php:142\n/home/altadata/application/default/controllers/IndustryController.php:272\n/home/altadata/application/default/controllers/IndustryController.php:286\n/home/altadata/application/default/controllers/CompanyController.php:611\n/home/altadata/application/default/controllers/CompanyController.php:624\n/home/altadata/application/default/controllers/CompanyController.php:633\n/home/altadata/application/default/controllers/CompanyController.php:1278\n/home/altadata/application/default/controllers/ContactController.php:479\n/home/altadata/application/default/controllers/ContactController.php:539\n/home/altadata/application/default/controllers/ContactController.php:570\n/home/altadata/application/default/controllers/ContactController.php:758\n/home/altadata/application/default/controllers/ContactController.php:792\n/home/altadata/application/default/controllers/ContactController.php:802\n/home/altadata/application/default/controllers/CompanyController.php:647\n/home/altadata/application/default/controllers/CompanyController.php:660\n/home/altadata/application/default/controllers/CompanyController.php:669\n/home/altadata/application/default/controllers/CompanyController.php:1314"
+        },
+        "msgstr": [
+          "错误：您查找的网页不存在 "
+        ]
+      },
+      "layout.title.404": {
+        "msgid": "layout.title.404",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:389\napplication/default/controllers/CompanyController.php:402\napplication/default/controllers/CompanyController.php:411\napplication/default/controllers/CompanyController.php:976\napplication/default/controllers/ContactController.php:444\napplication/default/controllers/ContactController.php:504\napplication/default/controllers/ContactController.php:535\napplication/default/controllers/CountryController.php:52\napplication/default/controllers/CountryController.php:69\napplication/default/controllers/IndustryController.php:101\napplication/default/controllers/IndustryController.php:114\napplication/default/controllers/PdfController.php:59\napplication/default/controllers/PdfController.php:72\napplication/default/controllers/PdfController.php:81\napplication/default/controllers/PopularityController.php:70\n/home/altadata/application/default/controllers/StaticController.php:77\n/home/altadata/application/default/controllers/ContactController.php:476\n/home/altadata/application/default/controllers/ContactController.php:536\n/home/altadata/application/default/controllers/ContactController.php:567\n/home/altadata/application/default/controllers/CountryController.php:52\n/home/altadata/application/default/controllers/CountryController.php:69\n/home/altadata/application/default/controllers/CompanyController.php:602\n/home/altadata/application/default/controllers/CompanyController.php:615\n/home/altadata/application/default/controllers/CompanyController.php:624\n/home/altadata/application/default/controllers/CompanyController.php:1251\n/home/altadata/application/default/controllers/PopularityController.php:70\n/home/altadata/application/default/controllers/PdfController.php:59\n/home/altadata/application/default/controllers/PdfController.php:72\n/home/altadata/application/default/controllers/PdfController.php:81\n/home/altadata/application/default/controllers/IndustryController.php:101\n/home/altadata/application/default/controllers/IndustryController.php:115\n/home/altadata/application/default/controllers/ContactController.php:755\n/home/altadata/application/default/controllers/CompanyController.php:1246\n/home/altadata/application/default/controllers/PdfController.php:100\n/home/altadata/application/default/controllers/PdfController.php:113\n/home/altadata/application/default/controllers/PdfController.php:122\n/home/altadata/application/default/controllers/XmlController.php:31\n/home/altadata/application/default/controllers/XmlController.php:40\n/home/altadata/application/default/controllers/ContactController.php:789\n/home/altadata/application/default/controllers/CompanyController.php:1253\n/home/altadata/application/default/controllers/IndustryController.php:102\n/home/altadata/application/default/controllers/IndustryController.php:122\n/home/altadata/application/default/controllers/IndustryController.php:142\n/home/altadata/application/default/controllers/IndustryController.php:162\n/home/altadata/application/default/controllers/IndustryController.php:263\n/home/altadata/application/default/controllers/IndustryController.php:277\n/home/altadata/application/default/controllers/ContactController.php:799\n/home/altadata/application/default/controllers/IndustryController.php:272\n/home/altadata/application/default/controllers/IndustryController.php:286\n/home/altadata/application/default/controllers/ContactController.php:477\n/home/altadata/application/default/controllers/ContactController.php:537\n/home/altadata/application/default/controllers/ContactController.php:568\n/home/altadata/application/default/controllers/ContactController.php:756\n/home/altadata/application/default/controllers/ContactController.php:790\n/home/altadata/application/default/controllers/ContactController.php:800\n/home/altadata/application/default/controllers/CompanyController.php:1269\n/home/altadata/application/default/controllers/PdfController.php:60\n/home/altadata/application/default/controllers/PdfController.php:73\n/home/altadata/application/default/controllers/PdfController.php:82\n/home/altadata/application/default/controllers/IndustryController.php:103\n/home/altadata/application/default/controllers/IndustryController.php:123\n/home/altadata/application/default/controllers/IndustryController.php:143\n/home/altadata/application/default/controllers/IndustryController.php:273\n/home/altadata/application/default/controllers/IndustryController.php:287\n/home/altadata/application/default/controllers/CompanyController.php:612\n/home/altadata/application/default/controllers/CompanyController.php:625\n/home/altadata/application/default/controllers/CompanyController.php:634\n/home/altadata/application/default/controllers/CompanyController.php:1279\n/home/altadata/application/default/controllers/ContactController.php:480\n/home/altadata/application/default/controllers/ContactController.php:540\n/home/altadata/application/default/controllers/ContactController.php:571\n/home/altadata/application/default/controllers/ContactController.php:759\n/home/altadata/application/default/controllers/ContactController.php:793\n/home/altadata/application/default/controllers/ContactController.php:803\n/home/altadata/application/default/controllers/CompanyController.php:648\n/home/altadata/application/default/controllers/CompanyController.php:661\n/home/altadata/application/default/controllers/CompanyController.php:670\n/home/altadata/application/default/controllers/CompanyController.php:1315"
+        },
+        "msgstr": [
+          "错误：您查找的网页不存在 "
+        ]
+      },
+      "title.orgchart.%s": {
+        "msgid": "title.orgchart.%s",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:486\n/home/altadata/application/default/controllers/CompanyController.php:733\n/home/altadata/application/default/controllers/CompanyController.php:740\n/home/altadata/application/default/controllers/CompanyController.php:747\n/home/altadata/application/default/controllers/CompanyController.php:757\n/home/altadata/application/default/controllers/CompanyController.php:793",
+          "flag": "php-format"
+        },
+        "msgstr": [
+          "%s企业机构组织图"
+        ]
+      },
+      "text.orgchart.metaDescription.%s%s%s": {
+        "msgid": "text.orgchart.metaDescription.%s%s%s",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:490\n/home/altadata/application/default/controllers/CompanyController.php:737\n/home/altadata/application/default/controllers/CompanyController.php:744\n/home/altadata/application/default/controllers/CompanyController.php:751\n/home/altadata/application/default/controllers/CompanyController.php:761\n/home/altadata/application/default/controllers/CompanyController.php:797",
+          "flag": "php-format"
+        },
+        "msgstr": [
+          "%s 的组织结构图显示其 %s 位主要高管 %s"
+        ]
+      },
+      "text.orgchart.metaDescription.including": {
+        "msgid": "text.orgchart.metaDescription.including",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:533\napplication/default/controllers/CompanyController.php:536\n/home/altadata/application/default/controllers/CompanyController.php:802\n/home/altadata/application/default/controllers/CompanyController.php:805\n/home/altadata/application/default/controllers/CompanyController.php:797\n/home/altadata/application/default/controllers/CompanyController.php:800\n/home/altadata/application/default/controllers/CompanyController.php:804\n/home/altadata/application/default/controllers/CompanyController.php:807\n/home/altadata/application/default/controllers/CompanyController.php:814\n/home/altadata/application/default/controllers/CompanyController.php:817\n/home/altadata/application/default/controllers/CompanyController.php:850\n/home/altadata/application/default/controllers/CompanyController.php:853"
+        },
+        "msgstr": [
+          "其中"
+        ]
+      },
+      "generic.and": {
+        "msgid": "generic.and",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:538\n/home/altadata/application/default/controllers/CompanyController.php:807\n/home/altadata/application/default/controllers/CompanyController.php:802\n/home/altadata/application/default/controllers/CompanyController.php:809\n/home/altadata/application/default/controllers/CompanyController.php:819\n/home/altadata/application/default/controllers/CompanyController.php:855"
+        },
+        "msgstr": [
+          "和"
+        ]
+      },
+      "title.company.add": {
+        "msgid": "title.company.add",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:820\n/home/altadata/application/default/controllers/CompanyController.php:1093\n/home/altadata/application/default/controllers/CompanyController.php:1088\n/home/altadata/application/default/controllers/CompanyController.php:1095\n/home/altadata/application/default/controllers/CompanyController.php:1111\n/home/altadata/application/default/controllers/CompanyController.php:1121\n/home/altadata/application/default/controllers/CompanyController.php:1157"
+        },
+        "msgstr": [
+          "添加企业"
+        ]
+      },
+      "forms.error.companyNameExists": {
+        "msgid": "forms.error.companyNameExists",
+        "comments": {
+          "reference": "application/default/controllers/CompanyController.php:837\n/home/altadata/application/default/controllers/CompanyController.php:1112\n/home/altadata/application/default/controllers/CompanyController.php:1107\n/home/altadata/application/default/controllers/CompanyController.php:1114\n/home/altadata/application/default/controllers/CompanyController.php:1130\n/home/altadata/application/default/controllers/CompanyController.php:1140\n/home/altadata/application/default/controllers/CompanyController.php:1176"
+        },
+        "msgstr": [
+          "该企业已存在"
+        ]
+      },
+      "sdfsdfgsdfgsdfg": {
+        "msgid": "sdfsdfgsdfgsdfg",
+        "msgstr": [
+          "strisdfvsdfng"
+        ]
+      },
+      "sdfsdfgsdfvdfvsdfgsdfg": {
+        "msgid": "sdfsdfgsdfvdfvsdfgsdfg",
+        "msgstr": [
+          "strisdsdfvdfvfvsdfng"
+        ]
+      },
+      "sdfsdfgsasdfsddfvdfvsdfgsdfg": {
+        "msgid": "sdfsdfgsasdfsddfvdfvsdfgsdfg",
+        "msgstr": [
+          "str"
+        ]
+      }
+    }
+  }
+}
