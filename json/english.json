@@ -38,29 +38,20 @@
       },
       "title.alert.myAlerts": {
         "msgid": "title.alert.myAlerts",
-        "comments": {
-          "reference": "application/default/controllers/AlertController.php:83"
-        },
         "msgstr": [
-          "My alerts"
+          "My alertssdfvdf"
         ]
       },
       "alert.error.alert.limit.reached": {
         "msgid": "alert.error.alert.limit.reached",
-        "comments": {
-          "reference": "application/default/controllers/AlertController.php:111"
-        },
         "msgstr": [
-          "Sorry, you can have reached your maximum number of alerts with your membership. Please delete an alert to add a new alert or contact us."
+          "Sorry, you sdfvdfcan have reached your maximum number of alerts with your membership. Please delete an alert to add a new alert or contact us."
         ]
       },
       "title.alert.editAlert": {
         "msgid": "title.alert.editAlert",
-        "comments": {
-          "reference": "application/default/controllers/AlertController.php:162"
-        },
         "msgstr": [
-          "Edit Alert"
+          "Edit Alertsdfvd"
         ]
       },
       "forms.label.search.country.state.all": {
