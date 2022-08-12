@@ -39,13 +39,13 @@
       "title.alert.myAlerts": {
         "msgid": "title.alert.myAlerts",
         "msgstr": [
-          "My alertsdf"
+          "My alerts"
         ]
       },
       "alert.error.alert.limit.reached": {
         "msgid": "alert.error.alert.limit.reached",
         "msgstr": [
-          "Sorry, you sdfvdfcan have reached your maximum number of alerts with your membership. Please delete an alert to add a new alert or contact us."
+          "Sorry, you can have reached your maximum number of alerts with your membership. Please delete an alert to add a new alert or contact us."
         ]
       },
       "title.alert.editAlert": {
